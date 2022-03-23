@@ -1,0 +1,6 @@
+*.pyc
+venv
+*.sublime-workspace
+build
+logs
+.idea
